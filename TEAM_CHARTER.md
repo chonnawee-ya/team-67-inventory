@@ -4,7 +4,7 @@
 
 | ชื่อ | GitHub Username | บทบาท |
 |---|---|---|
-| ชนวีร์ แย้มขยาย  | chonnawee-ya             | Product Owner |
+| ชนวีร์ แย้มขยาย  | chonnawee yaemkhayai                | Product Owner |
 | กณิศ สิงห์คำ  | Kansi Singkham             | Scrum Master / Developer |
 | ภัทรภณ ตันนารัตน์  | Yoru006           | Scrum Master / Developer |
 | วิชชากร เดชสุพา | ...             | Developer |
